@@ -1,4 +1,4 @@
-name: Run bigbasket.py
+name: Run  SWIGGY - Copy.py
 
 on: [push]
 
