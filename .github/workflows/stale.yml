@@ -21,4 +21,4 @@ jobs:
         pip install requests pandas
 
     - name: Run script
-      run: python bigbasket.py
+      run: python SWIGGY - Copy.py
