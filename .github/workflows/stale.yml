@@ -1,4 +1,4 @@
-name: Run  SWIGGY - Copy.py
+name: Run HELLO.py
 
 on: [push]
 
@@ -21,4 +21,4 @@ jobs:
         pip install requests pandas
 
     - name: Run script
-      run: python SWIGGY - Copy.py
+      run: python HELLO.py
